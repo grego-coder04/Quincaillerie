@@ -44,7 +44,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGXYYChXeHLooo="
 							},
-							"name": "SequenceDiagram1",
+							"name": "Gestion du quincaillerie",
 							"ownedViews": [
 								{
 									"_type": "UMLFrameView",
@@ -65,9 +65,9 @@
 											"font": "Arial;13;0",
 											"left": 174.97900390625,
 											"top": 13,
-											"width": 115.9052734375,
+											"width": 136.13525390625,
 											"height": 13,
-											"text": "SequenceDiagram1"
+											"text": "Gestion du quincaillerie"
 										},
 										{
 											"_type": "LabelView",
@@ -639,6 +639,8 @@
 											"model": {
 												"$ref": "AAAAAAGXYZHySuO2LW8="
 											},
+											"lineColor": "#ff2b2b",
+											"fillColor": "#ff2b2b",
 											"font": "Arial;13;0",
 											"left": 269,
 											"top": 104,
@@ -750,6 +752,8 @@
 											"model": {
 												"$ref": "AAAAAAGXYY4If+MxTCU="
 											},
+											"lineColor": "#ffff00",
+											"fillColor": "#ffff00",
 											"font": "Arial;13;0",
 											"left": 757,
 											"top": 160,
@@ -861,6 +865,8 @@
 											"model": {
 												"$ref": "AAAAAAGXYZNHQ+PT79A="
 											},
+											"lineColor": "#6dceff",
+											"fillColor": "#6dceff",
 											"font": "Arial;13;0",
 											"left": 1033,
 											"top": 194,
@@ -972,6 +978,8 @@
 											"model": {
 												"$ref": "AAAAAAGXYZPNzuPqt9o="
 											},
+											"lineColor": "#38ff38",
+											"fillColor": "#00ff00",
 											"font": "Arial;13;0",
 											"left": 757,
 											"top": 234,
@@ -1196,6 +1204,8 @@
 											"model": {
 												"$ref": "AAAAAAGXYZU7fOQiH4s="
 											},
+											"lineColor": "#0000ff",
+											"fillColor": "#0000ff",
 											"font": "Arial;13;0",
 											"left": 1269,
 											"top": 336,
@@ -1307,6 +1317,8 @@
 											"model": {
 												"$ref": "AAAAAAGXYZYVB+Q6GLQ="
 											},
+											"lineColor": "#ff00ff",
+											"fillColor": "#ff38ff",
 											"font": "Arial;13;0",
 											"left": 1269,
 											"top": 380,
@@ -1418,6 +1430,8 @@
 											"model": {
 												"$ref": "AAAAAAGXYZdjFOSQZPs="
 											},
+											"lineColor": "#ff7f00",
+											"fillColor": "#ff7f00",
 											"font": "Arial;13;0",
 											"left": 269,
 											"top": 404,
@@ -1529,6 +1543,8 @@
 											"model": {
 												"$ref": "AAAAAAGXYZg1QOSnMT0="
 											},
+											"lineColor": "#007561",
+											"fillColor": "#007561",
 											"font": "Arial;13;0",
 											"left": 510,
 											"top": 470,
@@ -1745,7 +1761,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGXYYChW+HKy00="
 					},
-					"name": "Role1"
+					"name": "Role1",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -1753,7 +1770,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGXYYChW+HKy00="
 					},
-					"name": "Role2"
+					"name": "Role2",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -1761,7 +1779,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGXYYChW+HKy00="
 					},
-					"name": "Role3"
+					"name": "Role3",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -1769,7 +1788,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGXYYChW+HKy00="
 					},
-					"name": "Role4"
+					"name": "Role4",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -1777,7 +1797,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGXYYChW+HKy00="
 					},
-					"name": "Role5"
+					"name": "Role5",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -1785,7 +1806,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGXYYChW+HKy00="
 					},
-					"name": "Role6"
+					"name": "Role6",
+					"type": ""
 				}
 			]
 		}
